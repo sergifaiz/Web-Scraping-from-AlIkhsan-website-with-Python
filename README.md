@@ -10,6 +10,7 @@ What Data?
 
 Challenge faced:
 1.	When parsing the link, it will return 24 products only 
+
 Solutions: Loop through each link to get all the products (load next button)
 
  
