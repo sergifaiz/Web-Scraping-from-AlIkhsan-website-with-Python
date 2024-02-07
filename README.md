@@ -1,6 +1,6 @@
 # Web-Scraping-from-AlIkhsan-website-with-Python
 
-Data Products = Dataset consisting of Nike Football Boots listed in Alikhsan 
+Data Products = Dataset consisting of Nike Football Boots listed on Alikhsan website
 
 Libraries, Packages: BeautifulSoup, requests, pandas
 
